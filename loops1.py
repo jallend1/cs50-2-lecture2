@@ -1,3 +1,3 @@
 names = ["Alice", "Bob", "Charlie"]
 for name in names:
-    print(name)
+    print(f"Welcome to Python, {name}!")
